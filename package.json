@@ -1,0 +1,12 @@
+{
+	"name": "buda_test",
+	"version": "1.0.0",
+	"description": "Buda Metro test. Simple program that calculates shortest path depending on train & stations colors",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "Diego Castro",
+	"license": "ISC",
+	"type": "module"
+}
