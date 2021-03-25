@@ -1,7 +1,7 @@
 const exampleRed = [
 	{ station: 'A', edges: ['B'] },
 	{ station: 'B', edges: ['A', 'C'] },
-	{ station: 'C', edges: ['B', 'D', 'G'] },
+	{ station: 'C', edges: ['B', 'D', 'G'], color: 'green' },
 	{ station: 'D', edges: ['C', 'E'] },
 	{ station: 'E', edges: ['D', 'F'] },
 	{ station: 'F', edges: ['E', 'I'] },

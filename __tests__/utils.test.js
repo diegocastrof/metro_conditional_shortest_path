@@ -1,5 +1,5 @@
-import exampleRed from '../red';
-import { sanitazeRed } from '../utils/utils';
+import exampleRed from '../src/red';
+import { sanitazeRed } from '../src/utils/utils';
 
 describe('sanitazeRed', () => {
 	describe('when train has color', () => {
